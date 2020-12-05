@@ -1,0 +1,2 @@
+(this["webpackJsonpphone-project"]=this["webpackJsonpphone-project"]||[]).push([[0],{17:function(e,t,n){},21:function(e,t,n){"use strict";n.r(t);var c=n(4),o=n(1),r=n.n(o),a=n(7),s=n.n(a),u=(n(17),n(10)),i=(n(18),n(9));var j=function(){var e=Object(o.useState)(),t=Object(u.a)(e,2),n=t[0],r=t[1];return Object(c.jsx)(i.a,{international:!0,defaultCountry:"RU",value:n,onChange:r})};s.a.render(Object(c.jsx)(r.a.StrictMode,{children:Object(c.jsx)(j,{})}),document.getElementById("root"))}},[[21,1,2]]]);
+//# sourceMappingURL=main.88d81244.chunk.js.map
